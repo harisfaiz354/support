@@ -7,6 +7,7 @@ import javax.ws.rs.PUT;
 import javax.ws.rs.Path;
 
 @Path("/customer/service")
+
 public class CustomerService {
      @GET
 	 public void getCustomer()
